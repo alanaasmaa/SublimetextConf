@@ -5,8 +5,11 @@
 	],
 	"installed_packages":
 	[
+		"AdvancedNewFile",
 		"All Autocomplete",
 		"HTML-CSS-JS Prettify",
+		"HTML5",
+		"jQuery",
 		"Package Control",
 		"ProjectManager",
 		"SideBarEnhancements",
