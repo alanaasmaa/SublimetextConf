@@ -1,0 +1,9 @@
+{
+    "php_cs_fixer_executable_path": "C:\\PHP\\php-cs-fixer.bat",
+    "phpcs_executable_path": "C:\\PHP\\phpcs.bat",
+    "phpcs_php_path": "C:\\PHP\\php.exe",
+    "phpmd_executable_path": "C:\\PHP\\phpmd.bat",
+    "phpcbf_executable_path": "C:\\PHP\\phpcbf.bat",
+    "phpmd_run": true,
+    "phpcs_show_quick_panel": false,
+}
