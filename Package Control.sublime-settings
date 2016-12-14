@@ -7,20 +7,25 @@
 	[
 		"AdvancedNewFile",
 		"All Autocomplete",
+		"DocBlockr",
+		"Git",
+		"GitGutter",
+		"Gulp",
 		"HTML-CSS-JS Prettify",
 		"HTML5",
 		"jQuery",
+		"Monokai - Spacegray",
 		"Package Control",
+		"Phpcs",
 		"ProjectManager",
 		"SideBarEnhancements",
+		"Smarty",
 		"Stylus",
 		"Stylus Clean Completions",
 		"SublimeCodeIntel",
 		"SublimeLinter",
 		"SublimeLinter-html-tidy",
 		"SublimeLinter-jshint",
-		"SublimeLinter-php",
-		"SublimeLinter-phpcs",
 		"Theme - Spacegray"
 	]
 }
