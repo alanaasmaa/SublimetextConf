@@ -7,7 +7,7 @@
         "gutter_theme_excludes": [],
         "lint_mode": "background",
         "linters": {
-            "htmltidy": {
+            "htmlhint": {
                 "@disable": false,
                 "args": [],
                 "excludes": []
@@ -16,17 +16,6 @@
                 "@disable": false,
                 "args": [],
                 "excludes": []
-            },
-            "php": {
-                "@disable": false,
-                "args": [],
-                "excludes": []
-            },
-            "phpcs": {
-                "@disable": false,
-                "args": [],
-                "excludes": [],
-                "standard": "PSR2"
             }
         },
         "mark_style": "outline",
@@ -52,7 +41,6 @@
             "html 5": "html",
             "javascript (babel)": "javascript",
             "magicpython": "python",
-            "php": "html",
             "python django": "python",
             "pythonimproved": "python"
         },

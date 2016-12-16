@@ -7,6 +7,7 @@
 	[
 		"AdvancedNewFile",
 		"All Autocomplete",
+		"Color Highlighter",
 		"DocBlockr",
 		"Git",
 		"GitGutter",
@@ -24,7 +25,7 @@
 		"Stylus Clean Completions",
 		"SublimeCodeIntel",
 		"SublimeLinter",
-		"SublimeLinter-html-tidy",
+		"SublimeLinter-contrib-htmlhint",
 		"SublimeLinter-jshint",
 		"Theme - Spacegray"
 	]
