@@ -1,3 +1,4 @@
 [
-   { "keys": ["f2"], "command": "side_bar_move" }
+   { "keys": ["f2"], "command": "side_bar_move" },
+   {"keys": ["ctrl+alt+o"], "command": "project_manager", "args": {"action": "new"}}
 ]
