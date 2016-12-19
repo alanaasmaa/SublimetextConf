@@ -17,7 +17,6 @@
 		"jQuery",
 		"Monokai - Spacegray",
 		"Package Control",
-		"Phpcs",
 		"ProjectManager",
 		"SideBarEnhancements",
 		"Smarty",
@@ -27,6 +26,9 @@
 		"SublimeLinter",
 		"SublimeLinter-contrib-htmlhint",
 		"SublimeLinter-jshint",
+		"SublimeLinter-php",
+		"SublimeLinter-phpcs",
+		"SublimeLinter-phpmd",
 		"Theme - Spacegray"
 	]
 }
