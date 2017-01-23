@@ -14,6 +14,7 @@
 		"HTML-CSS-JS Prettify",
 		"HTML5",
 		"jQuery",
+		"LESS",
 		"Monokai - Spacegray",
 		"Package Control",
 		"PHP Codebeautifier",
@@ -25,10 +26,12 @@
 		"SublimeCodeIntel",
 		"SublimeLinter",
 		"SublimeLinter-contrib-htmlhint",
+		"SublimeLinter-csslint",
 		"SublimeLinter-jshint",
 		"SublimeLinter-php",
 		"SublimeLinter-phpcs",
 		"SublimeLinter-phpmd",
+		"TabsExtra",
 		"Theme - Spacegray"
 	]
 }
