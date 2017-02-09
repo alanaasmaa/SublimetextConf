@@ -5,6 +5,7 @@
 	],
 	"installed_packages":
 	[
+		"A File Icon",
 		"AdvancedNewFile",
 		"All Autocomplete",
 		"Color Highlighter",
@@ -17,7 +18,7 @@
 		"HTML5",
 		"jQuery",
 		"LESS",
-		"Monokai - Spacegray",
+		"Material Theme",
 		"Package Control",
 		"PHP Codebeautifier",
 		"PHP Companion",
@@ -34,7 +35,6 @@
 		"SublimeLinter-php",
 		"SublimeLinter-phpcs",
 		"SublimeLinter-phpmd",
-		"TabsExtra",
-		"Theme - Spacegray"
+		"TabsExtra"
 	]
 }
