@@ -8,7 +8,7 @@
 		"gray_antialias",
 		"subpixel_antialias"
 	],
-	"font_size": 13,
+	"font_size": 14,
 	"highlight_line": true,
 	"highlight_modified_tabs": true,
 	"ignored_packages":
@@ -21,8 +21,8 @@
 		"draw_normal",
 		"draw_active"
 	],
-	"line_padding_bottom": 1,
-	"line_padding_top": 1,
+	"line_padding_bottom": 3,
+	"line_padding_top": 3,
 	"material_theme_accent_cyan": true,
 	"material_theme_bold_tab": true,
 	"material_theme_compact_panel": true,
