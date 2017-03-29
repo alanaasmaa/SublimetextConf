@@ -35,6 +35,7 @@
 		"SublimeLinter-php",
 		"SublimeLinter-phpcs",
 		"SublimeLinter-phpmd",
-		"TabsExtra"
+		"TabsExtra",
+		"Xdebug Client"
 	]
 }
