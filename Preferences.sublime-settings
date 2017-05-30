@@ -3,6 +3,13 @@
 	"close_windows_when_empty": false,
 	"color_scheme": "Packages/Material Theme/schemes/Material-Theme-Darker.tmTheme",
 	"default_line_ending": "unix",
+	"folder_exclude_patterns":
+	[
+		".svn",
+		".git",
+		".hg",
+		"CVS"
+	],
 	"font_options":
 	[
 		"gray_antialias",
@@ -14,6 +21,7 @@
 	"ignored_packages":
 	[
 		"ActionScript",
+		"JavaScript Completions",
 		"Vintage"
 	],
 	"indent_guide_options":
@@ -48,9 +56,5 @@
 	"theme": "Material-Theme-Darker.sublime-theme",
 	"translate_tabs_to_spaces": true,
 	"trim_trailing_white_space_on_save": true,
-	"word_wrap": false,
-	"folder_exclude_patterns":
-	[
-		".svn", ".git", ".hg", "CVS", "node_modules", "vendor"
-	],
+	"word_wrap": false
 }

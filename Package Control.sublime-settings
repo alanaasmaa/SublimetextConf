@@ -2,21 +2,26 @@
 	"bootstrapped": true,
 	"in_process_packages":
 	[
+		"JavaScript Completions"
 	],
 	"installed_packages":
 	[
 		"A File Icon",
 		"AdvancedNewFile",
 		"All Autocomplete",
+		"Babel",
 		"Color Highlighter",
+		"DataConverter",
 		"DocBlockr",
 		"Emmet",
+		"Fold Comments",
 		"Git",
 		"GitGutter",
+		"Google Spell Check",
 		"Gulp",
 		"HTML-CSS-JS Prettify",
 		"HTML5",
-		"jQuery",
+		"Indent XML",
 		"Laravel Blade Highlighter",
 		"LESS",
 		"Material Theme",
@@ -29,6 +34,8 @@
 		"Stylus",
 		"SublimeCodeIntel",
 		"SublimeLinter",
+		"SublimeLinter-contrib-eslint",
+		"SublimeLinter-contrib-eslint_d",
 		"SublimeLinter-contrib-htmlhint",
 		"SublimeLinter-csslint",
 		"SublimeLinter-jshint",
@@ -36,6 +43,7 @@
 		"SublimeLinter-phpcs",
 		"SublimeLinter-phpmd",
 		"TabsExtra",
+		"Vue Syntax Highlight",
 		"Xdebug Client"
 	]
 }
