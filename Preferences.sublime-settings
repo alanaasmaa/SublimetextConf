@@ -1,7 +1,7 @@
 {
 	"bold_folder_labels": true,
 	"close_windows_when_empty": false,
-	"color_scheme": "Packages/Material Theme/schemes/Material-Theme-Darker.tmTheme",
+	"color_scheme": "Packages/Theme - Monokai Pro/Monokai Pro (Filter Ristretto).tmTheme",
 	"default_line_ending": "unix",
 	"folder_exclude_patterns":
 	[
@@ -50,10 +50,11 @@
 		"fallback_encoding": "Western (ISO 8859-1)"
 	},
 	"show_encoding": true,
+	"show_full_path": false,
 	"spacegray_fileicons": true,
 	"tab_completion": false,
 	"tab_size": 4,
-	"theme": "Material-Theme-Darker.sublime-theme",
+	"theme": "Monokai Pro (Filter Ristretto).sublime-theme",
 	"translate_tabs_to_spaces": true,
 	"trim_trailing_white_space_on_save": true,
 	"word_wrap": false
