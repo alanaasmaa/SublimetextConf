@@ -1,7 +1,7 @@
 {
 	"bold_folder_labels": true,
 	"close_windows_when_empty": false,
-	"color_scheme": "Packages/Theme - Monokai Pro/Monokai Pro (Filter Ristretto).tmTheme",
+	"color_scheme": "Packages/Theme - Monokai Pro/Monokai Pro (Filter Spectrum).tmTheme",
 	"default_line_ending": "unix",
 	"folder_exclude_patterns":
 	[
@@ -54,7 +54,7 @@
 	"spacegray_fileicons": true,
 	"tab_completion": false,
 	"tab_size": 4,
-	"theme": "Monokai Pro (Filter Ristretto).sublime-theme",
+	"theme": "Monokai Pro (Filter Spectrum).sublime-theme",
 	"translate_tabs_to_spaces": true,
 	"trim_trailing_white_space_on_save": true,
 	"word_wrap": false
