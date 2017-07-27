@@ -23,7 +23,9 @@
             "eslint_d": {
                 "@disable": false,
                 "args": [],
-                "excludes": []
+                "excludes": [
+                    "*.min.js"
+                ]
             },
             "htmlhint": {
                 "@disable": false,
@@ -78,7 +80,6 @@
             "html (rails)": "html",
             "html 5": "html",
             "javascript (babel)": "javascript",
-            "vue": "javascript",
             "javascript (eslint)": "javascript",
             "javascript (gruntfile)": "javascript",
             "javascript (gulpfile)": "javascript",
@@ -97,6 +98,7 @@
             "magicpython": "python",
             "python django": "python",
             "pythonimproved": "python",
+            "vue": "javascript",
             "xml (config)": "xml",
             "xml (svg)": "xml",
             "yaml (circleci)": "yaml",
