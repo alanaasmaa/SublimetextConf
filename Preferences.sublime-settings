@@ -8,7 +8,9 @@
 		".svn",
 		".git",
 		".hg",
-		"CVS"
+		"CVS",
+		"node_modules",
+		"/vendor"
 	],
 	"font_options":
 	[
