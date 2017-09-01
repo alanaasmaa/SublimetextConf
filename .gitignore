@@ -2,7 +2,7 @@
 *
 # ... except preferences and package list
 !.gitignore
-!.sublime-snippet
+!*.sublime-snippet
 !Preferences.sublime-settings
 !Package Control.sublime-settings
 !Default (Windows).sublime-keymap
