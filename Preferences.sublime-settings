@@ -23,7 +23,6 @@
 	"ignored_packages":
 	[
 		"ActionScript",
-		"JavaScript Completions",
 		"Vintage"
 	],
 	"indent_guide_options":
