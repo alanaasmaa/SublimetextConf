@@ -38,6 +38,7 @@
 		"Stylus",
 		"SublimeCodeIntel",
 		"SublimeLinter",
+		"SublimeLinter-annotations",
 		"SublimeLinter-contrib-eslint_d",
 		"SublimeLinter-contrib-htmlhint",
 		"SublimeLinter-csslint",
