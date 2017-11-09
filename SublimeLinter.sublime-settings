@@ -1,195 +1,134 @@
 {
-	"user":
-	{
-		"debug": true,
-		"delay": 0.25,
-		"error_color": "D02000",
-		"gutter_theme": "Packages/SublimeLinter/gutter-themes/Default/Default.gutter-theme",
-		"gutter_theme_excludes":
-		[
-		],
-		"lint_mode": "background",
-		"linters":
-		{
-			"annotations":
-			{
-				"@disable": false,
-				"args":
-				[
-				],
-				"errors":
-				[
-					"FIXME"
-				],
-				"excludes":
-				[
-				],
-				"warnings":
-				[
-					"NOTE",
-					"README",
-					"TODO",
-					"@todo",
-					"XXX",
-					"WIP"
-				]
-			},
-			"csslint":
-			{
-				"@disable": false,
-				"args":
-				[
-				],
-				"errors": "",
-				"excludes":
-				[
-				],
-				"ignore": "",
-				"warnings": ""
-			},
-			"eslint":
-			{
-				"@disable": false,
-				"args":
-				[
-				],
-				"excludes":
-				[
-				]
-			},
-			"eslint_d":
-			{
-				"@disable": false,
-				"args":
-				[
-				],
-				"excludes":
-				[
-					"*.min.js"
-				]
-			},
-			"htmlhint":
-			{
-				"@disable": false,
-				"args":
-				[
-				],
-				"excludes":
-				[
-				]
-			},
-			"jshint":
-			{
-				"@disable": true,
-				"args":
-				[
-				],
-				"excludes":
-				[
-				]
-			},
-			"php":
-			{
-				"@disable": false,
-				"args":
-				[
-				],
-				"excludes":
-				[
-				]
-			},
-			"phpcs":
-			{
-				"@disable": false,
-				"args":
-				[
-				],
-				"excludes":
-				[
-					"*.html"
-				],
-				"standard": "PSR2"
-			},
-			"phpmd":
-			{
-				"@disable": false,
-				"args":
-				[
-				],
-				"excludes":
-				[
-				],
-				"rulesets": "cleancode,codesize,controversial,design,naming,unusedcode"
-			}
-		},
-		"mark_style": "outline",
-		"no_column_highlights_line": false,
-		"passive_warnings": false,
-		"paths":
-		{
-			"linux":
-			[
-			],
-			"osx":
-			[
-			],
-			"windows":
-			[
-			]
-		},
-		"python_paths":
-		{
-			"linux":
-			[
-			],
-			"osx":
-			[
-			],
-			"windows":
-			[
-			]
-		},
-		"rc_search_limit": 3,
-		"shell_timeout": 10,
-		"show_errors_on_save": false,
-		"show_marks_in_minimap": true,
-		"syntax_map":
-		{
-			"coffeescript (gulpfile)": "coffeescript",
-			"html (django)": "html",
-			"html (rails)": "html",
-			"html 5": "html",
-			"javascript (babel)": "javascript",
-			"javascript (eslint)": "javascript",
-			"javascript (gruntfile)": "javascript",
-			"javascript (gulpfile)": "javascript",
-			"javascript (postcss)": "javascript",
-			"javascript (stylelint)": "javascript",
-			"javascript (webpack)": "javascript",
-			"json (babel)": "json",
-			"json (bower)": "json",
-			"json (composer)": "json",
-			"json (eslint)": "json",
-			"json (npm)": "json",
-			"json (postcss)": "json",
-			"json (settings)": "json",
-			"json (stylelint)": "json",
-			"json (sublime)": "json",
-			"magicpython": "python",
-			"python django": "python",
-			"pythonimproved": "python",
-			"vue": "javascript",
-			"xml (config)": "xml",
-			"xml (svg)": "xml",
-			"yaml (circleci)": "yaml",
-			"yaml (docker)": "yaml",
-			"yaml (eslint)": "yaml",
-			"yaml (lock)": "yaml",
-			"yaml (procfile)": "yaml",
-			"yaml (stylelint)": "yaml",
-			"yaml (yarn)": "yaml"
-		},
-		"warning_color": "DDB700",
-		"wrap_find": true
-	}
+    "user": {
+        "debug": false,
+        "delay": 0.25,
+        "error_color": "D02000",
+        "gutter_theme": "Packages/SublimeLinter/gutter-themes/Default/Default.gutter-theme",
+        "gutter_theme_excludes": [],
+        "lint_mode": "background",
+        "linters": {
+            "annotations": {
+                "@disable": false,
+                "args": [],
+                "errors": [
+                    "FIXME"
+                ],
+                "excludes": [],
+                "warnings": [
+                    "NOTE",
+                    "README",
+                    "TODO",
+                    "@todo",
+                    "XXX",
+                    "WIP"
+                ]
+            },
+            "csslint": {
+                "@disable": false,
+                "args": [],
+                "errors": "",
+                "excludes": [],
+                "ignore": "",
+                "warnings": ""
+            },
+            "eslint_d": {
+                "@disable": false,
+                "args": [
+                    "--stdin-filename",
+                    "@"
+                ],
+                "excludes": [
+                    "*.min.js"
+                ]
+            },
+            "htmlhint": {
+                "@disable": false,
+                "args": [],
+                "excludes": []
+            },
+            "jshint": {
+                "@disable": true,
+                "args": [],
+                "excludes": []
+            },
+            "php": {
+                "@disable": false,
+                "args": [],
+                "excludes": []
+            },
+            "phpcs": {
+                "@disable": false,
+                "args": [],
+                "excludes": [
+                    "*.html"
+                ],
+                "standard": "PSR2"
+            },
+            "phpmd": {
+                "@disable": false,
+                "args": [],
+                "excludes": [],
+                "rulesets": "cleancode,codesize,controversial,design,naming,unusedcode"
+            },
+            "stylelint_d": {
+                "@disable": false,
+                "args": [],
+                "excludes": []
+            }
+        },
+        "mark_style": "outline",
+        "no_column_highlights_line": false,
+        "passive_warnings": false,
+        "paths": {
+            "linux": [],
+            "osx": [],
+            "windows": []
+        },
+        "python_paths": {
+            "linux": [],
+            "osx": [],
+            "windows": []
+        },
+        "rc_search_limit": 3,
+        "shell_timeout": 10,
+        "show_errors_on_save": false,
+        "show_marks_in_minimap": true,
+        "syntax_map": {
+            "coffeescript (gulpfile)": "coffeescript",
+            "html (django)": "html",
+            "html (rails)": "html",
+            "html 5": "html",
+            "javascript (babel)": "javascript",
+            "javascript (eslint)": "javascript",
+            "javascript (gruntfile)": "javascript",
+            "javascript (gulpfile)": "javascript",
+            "javascript (postcss)": "javascript",
+            "javascript (stylelint)": "javascript",
+            "javascript (webpack)": "javascript",
+            "json (babel)": "json",
+            "json (bower)": "json",
+            "json (composer)": "json",
+            "json (eslint)": "json",
+            "json (npm)": "json",
+            "json (postcss)": "json",
+            "json (settings)": "json",
+            "json (stylelint)": "json",
+            "json (sublime)": "json",
+            "magicpython": "python",
+            "python django": "python",
+            "pythonimproved": "python",
+            "vue": "javascript",
+            "xml (config)": "xml",
+            "xml (svg)": "xml",
+            "yaml (circleci)": "yaml",
+            "yaml (docker)": "yaml",
+            "yaml (eslint)": "yaml",
+            "yaml (lock)": "yaml",
+            "yaml (procfile)": "yaml",
+            "yaml (stylelint)": "yaml",
+            "yaml (yarn)": "yaml"
+        },
+        "warning_color": "DDB700",
+        "wrap_find": true
+    }
 }
