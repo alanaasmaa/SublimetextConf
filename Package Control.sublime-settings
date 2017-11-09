@@ -41,6 +41,7 @@
 		"SublimeLinter-annotations",
 		"SublimeLinter-contrib-eslint_d",
 		"SublimeLinter-contrib-htmlhint",
+		"SublimeLinter-contrib-stylelint_d",
 		"SublimeLinter-csslint",
 		"SublimeLinter-php",
 		"SublimeLinter-phpcs",
